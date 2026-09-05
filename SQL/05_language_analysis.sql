@@ -1,0 +1,1 @@
+-- Language Analysis Queries (Q37–Q49)
