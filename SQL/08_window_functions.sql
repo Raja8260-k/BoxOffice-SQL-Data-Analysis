@@ -1,0 +1,2 @@
+-- Window Functions Analysis
+-- Ranking, Row Number, Dense Rank and other analytical queries
