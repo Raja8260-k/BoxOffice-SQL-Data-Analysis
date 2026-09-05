@@ -1,0 +1,1 @@
+-- Industry Analysis Queries (Q21–Q36)
