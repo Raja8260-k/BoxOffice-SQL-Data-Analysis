@@ -1,1 +1,87 @@
+BoxOffice SQL Data Analysis - Dataset Information
 
+This project uses four raw CSV files:
+
+1. boxoffice.csv
+2. director.csv
+3. genre.csv
+4. language.csv
+
+
+BOXOFFICE DATASET
+
+FilmID
+Unique identifier for each film.
+
+Title
+The title of the film.
+
+Release Date
+The date on which the film was released.
+
+Lead Actor/Actress
+The primary actor or actress starring in the film.
+
+Industry
+The film industry to which the film belongs, such as Bollywood or Tollywood.
+
+Budget in Crores
+The production budget of the film in crores.
+
+First Day Collection Worldwide in Crores
+The worldwide box office collection on the first day of release.
+
+Worldwide Collection in Crores
+Total worldwide box office collection in crores.
+
+Overseas Collection in Crores
+Total box office collection from overseas markets in crores.
+
+India Gross Collection in Crores
+Total box office collection within India in crores.
+
+Verdict
+Overall performance assessment of the film, such as Hit, Flop or Blockbuster.
+
+IMDb Rating
+IMDb rating of the film.
+
+Runtime (mins)
+Total runtime of the film in minutes.
+
+OTT Platform
+OTT platform where the film is available for streaming.
+
+DirectorID
+Unique ID of the director.
+
+LanguageID
+Unique ID of the language.
+
+GenreID
+Unique ID of the genre.
+
+GENRE DATASET
+
+Genre
+The genre of the film, such as Action, Drama or Comedy.
+
+GenreID
+Unique ID of the genre.
+
+
+LANGUAGE DATASET
+
+Language
+The language in which the film was produced.
+
+LanguageID
+Unique ID of the language.
+
+DIRECTOR DATASET
+
+Director
+The director of the film.
+
+DirectorID
+Unique ID of the director.
