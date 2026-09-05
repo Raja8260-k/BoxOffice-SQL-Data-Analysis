@@ -1,0 +1,1 @@
+-- Director Analysis Queries (Q50–Q71)
