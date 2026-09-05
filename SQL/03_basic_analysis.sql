@@ -1,1 +1,1 @@
--- BoxOffice SQL Data Analysis
+-- Basic Analysis Queries (Q1–Q20)
